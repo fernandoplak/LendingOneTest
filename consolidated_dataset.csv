@@ -1,0 +1,11 @@
+customer_id,customer_name,email,transaction_id,amount,transaction_date
+1,John Smith,john.smith@email.com,101,784,2023-01-31
+2,Jane Doe,jane.doe@email.com,102,659,2023-02-28
+3,Micheal Jonson,m.johnson@email.com,103,729,2023-03-31
+4,Chris Lee,c.lee@email.com,104,292,2023-04-30
+5,Katherine Davis,k.davis@email.com,105,935,2023-05-31
+6,David Martinez,d.martinez@email.com,106,863,2023-06-30
+7,Sara Brownn,s.brown@email.com,107,807,2023-07-31
+8,James Wilson,j.wilson@email.com,108,459,2023-08-31
+9,Patricia Taylor,p.taylor@email.com,109,109,2023-09-30
+10,Robert Miller,r.miller@email.com,110,823,2023-10-31
